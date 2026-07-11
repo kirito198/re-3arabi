@@ -14,7 +14,7 @@ import com.lagradost.cloudstream3.utils.M3u8Helper
 import java.net.URI
 
 class krmzyProvider : MainAPI() {
-    override var mainUrl = "https://krmzi.org"
+    override var mainUrl = "https://krmizi.onl/"
     override var name = "قرمزي"
     override val hasMainPage = true
     override var lang = "ar"
