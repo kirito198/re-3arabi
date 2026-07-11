@@ -2,6 +2,5 @@
   "name": "3rabi عربي",
   "description": "مشاهدة الافلام والمسلسلات تجربة خالية من الاعلانات",
   "manifestVersion": 1,
-  "pluginLists": ["https://raw.githubusercontent.com/kirito198/re-3arabi/builds/plugins.json
-"]
+  "pluginLists": ["https://raw.githubusercontent.com/kirito198/re-3arabi/builds/plugins.json"]
 }
